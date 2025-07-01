@@ -1,0 +1,31 @@
+*{
+    
+    text-align: center;
+
+}
+body {
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(184, 230, 230);
+}
+
+th #desc{
+    text-align: center;
+}
+#btn{
+    cursor: pointer;
+    color: black;
+    background-color: rgb(34, 128, 73);
+}
+#btn:hover{
+    transition-duration: 0.5s;
+    color: white;
+    background-color: rgb(58, 230, 123);
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
